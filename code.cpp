@@ -1,4 +1,5 @@
 // C++ program for insertion sort
+//Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands.
 #include <bits/stdc++.h>
 using namespace std;
 
