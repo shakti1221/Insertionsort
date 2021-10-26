@@ -1,6 +1,7 @@
 // C++ program for insertion sort
 //Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands.
 //complexcity: Average complexity: n^2 //
+// Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
 // it is a sorting algorithm..
 #include <bits/stdc++.h>
 using namespace std;
