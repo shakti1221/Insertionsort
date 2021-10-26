@@ -1,4 +1,6 @@
 // C++ program for insertion sort
+// Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands. The array is virtually split ...
+
 //Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands.
 //complexcity: Average complexity: n^2 //
 // it is a sorting algorithm..
