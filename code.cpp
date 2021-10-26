@@ -6,7 +6,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-/* Function to sort an array by using insertion sort*/
+/* Function to sort an array by using a insertion sort*/
 void insertionSort(int arr[], int n)
 {
 	int i, key, j;
